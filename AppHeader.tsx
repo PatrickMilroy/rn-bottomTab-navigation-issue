@@ -66,7 +66,7 @@ const ImageStyled = styled(Image)({
 });
 
 const HeaderContainer = styled(View)({
-  paddingTop: 10,
+  paddingTop: 40,
   alignItems: 'center',
   flexDirection: 'row', // Arrange children horizontally
   justifyContent: 'space-between', // Space between children
